@@ -28,3 +28,8 @@ hacker:abcd1234
 * [Szenario.pdf](Szenario.pdf) contains the original Szenario.pdf specification (in german) (also available in the "source"-link at the beginning of this readme)
 * [Szenario.txt](Szenario.txt) - original Szenario.pdf converted to text (for security-concious people not wanting to open unchecked pdf files)
 * [assets](assets) - folder containing interresting files during the investigation
+
+
+### personal note:
+I discovered the solution by golem after analyzing the file.
+Also, i am not interrested in a job at the BND and did this analysis purely out of fun and for no personal gain.
