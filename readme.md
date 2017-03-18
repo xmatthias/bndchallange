@@ -21,3 +21,10 @@ hacker:abcd1234
 1. Describe the vulnerability the hackers could exploit to infiltrate the system. Which vulnerability has been used? Provide a PoC (Proof-of-Concept) for it.
 2. How could the attackers gain root access? Describe the vulnerability and determine the new root-password.
 3. What data was put onto the system? how was the data hidden? Name the flag
+
+
+### Repo outine
+* [solution.md](solution.md) contains the solution (SPOILER ALERT!!)
+* [Szenario.pdf](Szenario.pdf) contains the original Szenario.pdf specification (in german) (also available in the "source"-link at the beginning of this readme)
+* [Szenario.txt](Szenario.txt) - original Szenario.pdf converted to text (for security-concious people not wanting to open unchecked pdf files)
+* [assets](assets) - folder containing interresting files during the investigation

