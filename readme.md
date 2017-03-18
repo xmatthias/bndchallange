@@ -30,6 +30,7 @@ hacker:abcd1234
 * [assets](assets) - folder containing interresting files during the investigation
 
 
-### personal note:
-I discovered the solution by golem after analyzing the file.
-Also, i am not interrested in a job at the BND and did this analysis purely out of fun and for no personal gain.
+### Personal note:
+I discovered the solution by golem after analyzing the file.  
+Also, i am not interrested in a job at the BND.
+I did this analysis purely out of fun and for no personal gain.
