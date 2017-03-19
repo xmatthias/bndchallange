@@ -255,3 +255,8 @@ Renaming the file readFile.c to webvuln.c and compiling again `gcc webvuln.c -o 
 ```
 
 This latest finding in combination with the internal IP-Address suggests that this could have been an Insider job.
+
+###### SUDO-rights of the hacker-user
+
+Additionally, the hacker-user has sudo-rights for ifconfig and dhclient.
+This was not analyzed any further, however could provide additional vectors to recompromise the system.
